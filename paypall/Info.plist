@@ -20,6 +20,8 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<string></string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -43,5 +45,19 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>com.paypal.ppclient.touch.v1</key>
+	<string></string>
+	<key>com.paypal.ppclient.touch.v2
+com.paypal.ppclient.touch.v2
+com.paypal.ppclient.touch.v2
+com.paypal.ppclient.touch.v2
+com.paypal.ppclient.touch.v2
+com.paypal.ppclient.touch.v2
+com.paypal.ppclient.touch.v2
+com.paypal.ppclient.touch.v2
+</key>
+	<string></string>
+	<key>org-appextension-feature-password-management</key>
+	<string></string>
 </dict>
 </plist>
